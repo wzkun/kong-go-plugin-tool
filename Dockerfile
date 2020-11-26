@@ -1,0 +1,1 @@
+FROM kong/go-plugin-tool:latest-alpine-latest 
