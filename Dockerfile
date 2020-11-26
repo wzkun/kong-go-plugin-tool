@@ -1,1 +1,1 @@
-FROM kong/go-plugin-tool:latest-alpine-latest 
+FROM kong/go-plugin-tool:latest-centos-8
